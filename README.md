@@ -4,18 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1800&pause=800&center=true&random=false&width=435&color=29AB87&lines=Product+Manager;Founder;LLM+enthusiast;Biophilic+Designer" alt="Typing SVG" style="height: 60px; width: 435px;">
 </p>
 
-<picture> <img align="right" src="https://github.com/kshowkat-ctrl/gpt-ig-boost/blob/main/itkev.png" ></picture>
-
 
 ## **A little about me...**
+<picture> <img align="right" src="https://github.com/kshowkat-ctrl/gpt-ig-boost/blob/main/itkev.png" width = 200px> ></picture>
 
-- 📍 Based in Los Angeles, CA
-- 🎓 Graduated cum laude in Economics from UC Berkeley
-- 🛠️ Experienced in TypeScript, Python, and machine learning
+- 📍 Los Angeles, CA
+- 🎓 UC Berkeley - graduated _cum laude_ (Economics, BA)
+- 🛠️ Knowledgeable in TypeScript, Python, and LLMs
 - 🚀 Founded Wager Town, a popular sports betting app
+- 🌿 Founder of @DailyBiophilia, a design-centric Instagram community
 - 🌱 Currently on a sabbatical exploring LLMs and running marathons
-- 🌿 Founder of @DailyBiophilia, an influential Instagram community
-- 🎧 Previously at Spotify, where I led development for innovative ad formats
+- 🎧 Previously at Spotify, where I led development for ad formats
 <br/>
 
 ## <b>Products</b>
