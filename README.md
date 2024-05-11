@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Kevin Showkat </b><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/14299939/262521377-051f28d4-9d19-44a4-ad70-db697d784001.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240511%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240511T204553Z&X-Amz-Expires=300&X-Amz-Signature=3b3b71dd36a2e1c9f415017a812094ce9b81191710e4d9b6a9eb0587d2c0d3ff&X-Amz-SignedHeaders=host&actor_id=162640904&key_id=0&repo_id=681838903" width="35"></h1>
+<h1 align="center"><b>Live from LA, it's Kevin Showkat</b></h1>
 <br/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1800&pause=800&center=true&random=false&width=435&color=29AB87&lines=Product+Manager;Founder;LLM+enthusiast;Biophilic+Designer" alt="Typing SVG" style="height: 60px; width: 435px;">
