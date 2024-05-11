@@ -12,7 +12,7 @@
 - 📍 Based in Los Angeles, CA
 - 🎓 Graduated cum laude in Economics from UC Berkeley
 - 🛠️ Experienced in TypeScript, Python, and machine learning
-- 🚀 Founded Wager Town, a sports betting app with 30K users and significant revenue
+- 🚀 Founded Wager Town, a popular sports betting app
 - 🌱 Currently on a sabbatical exploring LLMs and running marathons
 - 🌿 Founder of @DailyBiophilia, an influential Instagram community
 - 🎧 Previously at Spotify, where I led development for innovative ad formats
@@ -21,8 +21,8 @@
 ## <b>Products</b>
 
 - **[Wager Town](https://github.com/YourGitHub/WagerTown)** - Freemium sports betting app with innovative revenue model.
-- **[Daily Biophilia](https://github.com/YourGitHub/ZipRecruiterOptimization)** - Improved job application rates by 30% through ML algorithm optimization.
-- **[Travelogue](https://github.com/YourGitHub/Travelogue)** - Your latest project during your sabbatical (if applicable).
+- **[Daily Biophilia](https://github.com/YourGitHub/ZipRecruiterOptimization)** -
+- 
 <br/>
 
 ## <b>Skills </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
