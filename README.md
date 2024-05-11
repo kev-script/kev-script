@@ -20,8 +20,14 @@
 ## <b>Products</b>
 
 - **[Wager Town](https://github.com/YourGitHub/WagerTown)** - Freemium sports betting app with innovative revenue model.
-- **[Daily Biophilia](https://github.com/YourGitHub/ZipRecruiterOptimization)** -
-- 
+- **[Daily Biophilia](https://github.com/YourGitHub/ZipRecruiterOptimization)** 
+
+<br/>
+
+## <b>Interviews</b>
+
+- **[Building a Platform for Fans & Brands](https://ads.spotify.com/en-US/news-and-insights/building-a-platform-for-fans-and-brands/)**
+
 <br/>
 
 ## <b>Skills </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
