@@ -19,7 +19,7 @@
 
 ## <b>Projects</b>
 
-- **[Daily Biophilia](https://localhost)** 
+- **[GPT-IG-Boost for Daily Biophilia](https://localhost)** 
 
 <br/>
 
