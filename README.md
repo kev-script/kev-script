@@ -14,7 +14,7 @@
 - 🚀 Founded Wager Town, a popular sports betting app
 - 🌿 Founder of @DailyBiophilia, a design-centric Instagram community
 - 🌱 Currently on a sabbatical exploring LLMs and running marathons
-- 🎧 Previously at Spotify, where I led development for ad formats
+- 🎧 Previously at Spotify, Kickstarter, & LinkedIn
 <br/>
 
 ## <b>Projects</b>
