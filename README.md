@@ -19,7 +19,7 @@
 
 ## <b>Projects</b>
 
-- **[Daily Biophilia](https://github.com/YourGitHub/ZipRecruiterOptimization)** 
+- **[Daily Biophilia](https://localhost)** 
 
 <br/>
 
