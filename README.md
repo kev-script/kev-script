@@ -1,7 +1,7 @@
 <h1 align="center"><b>Live from LA, it's Kevin Showkat</b></h1>
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1800&pause=800&center=true&random=false&width=435&color=29AB87&lines=Product+Manager;Founder;LLM+enthusiast;Biophilic+Designer" alt="Typing SVG" style="height: 60px; width: 435px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1800&pause=800&center=true&random=false&color=29AB87&lines=Product+Manager;Founder;LLM+enthusiast;Biophilic+Designer" alt="Typing SVG" style="height: 60px; width: 435px;">
 </p>
 
 
