@@ -6,7 +6,7 @@
 
 
 ## **A little about me...**
-<picture> <img align="right" src="https://github.com/kshowkat-ctrl/public-assets/itkev.png" width = 180px> ></picture>
+<picture> <img align="right" src="https://github.com/kshowkat-ctrl/public-assets/blob/main/itkev.png?raw=true" width = 180px> ></picture>
 
 - 📍 Los Angeles, CA - this is where I live!
 - 🎓 UC Berkeley - graduated _cum laude_ (Economics BA)
