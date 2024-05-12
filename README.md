@@ -14,7 +14,7 @@
 + 🚀 Founded Wager Town, a popular sports betting app
 + 🌿 Founder of @DailyBiophilia, a design-centric Instagram community
 + 🌱 Currently on a sabbatical exploring LLMs + running
-+ 🎧 Previously at Spotify, Kickstarter, & LinkedIn
++ 🎧 Previously at Spotify, where I led development for innovative ad formats ([patents](https://patents.justia.com/inventor/kevin-showkat))
 <br/>
 
 ## <b>Projects</b>
