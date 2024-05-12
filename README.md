@@ -6,7 +6,7 @@
 
 
 ## **A little about me...** <!-- -->
-<picture> <img align="right" src="https://github.com/kshowkat-ctrl/public-assets/blob/main/itkev.png?raw=true" width = 180px> ></picture>
+<picture> <img align="right" src="https://github.com/kshowkat-ctrl/public-assets/blob/main/itkev.png?raw=true" width = 160px> ></picture>
 
 + 📍 LA
 + 🎓 UC Berkeley (Economics BA)
