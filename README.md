@@ -6,7 +6,9 @@
 
 
 ## **A little about me...** <!-- -->
+
 <picture> <img align="right" src="https://github.com/kshowkat-ctrl/public-assets/blob/main/itkev.png?raw=true" width = 160px> ></picture>
+
 + 📍 Los Angeles
 + 🎓 UC Berkeley (Economics BA)
 + 🛠️ Proficient in TypeScript, Python
