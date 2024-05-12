@@ -8,12 +8,12 @@
 ## **A little about me...** <!-- -->
 <picture> <img align="right" src="https://github.com/kshowkat-ctrl/public-assets/blob/main/itkev.png?raw=true" width = 180px> ></picture>
 
-+ 📍 Los Angeles, CA - this is where I live!
-+ 🎓 UC Berkeley - graduated _cum laude_ (Economics BA)
-+ 🛠️ Knowledgeable in TypeScript, Python
++ 📍 LA
++ 🎓 UC Berkeley (Economics BA)
++ 🛠️ Proficient in TypeScript, Python
 + 🚀 Founded Wager Town, a popular sports betting app
 + 🌿 Founder of @DailyBiophilia, a design-centric Instagram community
-+ 🌱 Currently on a sabbatical exploring LLMs and running marathons
++ 🌱 Currently on a sabbatical exploring LLMs + running
 + 🎧 Previously at Spotify, Kickstarter, & LinkedIn
 <br/>
 
