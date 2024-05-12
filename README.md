@@ -17,9 +17,8 @@
 - 🎧 Previously at Spotify, where I led development for ad formats
 <br/>
 
-## <b>Products</b>
+## <b>Projects</b>
 
-- **[Wager Town](https://github.com/YourGitHub/WagerTown)** - Freemium sports betting app with innovative revenue model.
 - **[Daily Biophilia](https://github.com/YourGitHub/ZipRecruiterOptimization)** 
 
 <br/>
