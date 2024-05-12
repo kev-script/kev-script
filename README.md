@@ -8,7 +8,7 @@
 ## **A little about me...**
 <picture> <img align="right" src="https://github.com/kshowkat-ctrl/gpt-ig-boost/blob/main/itkev.png" width = 180px> ></picture>
 
-- 📍 Los Angeles, CA - this is where I live
+- 📍 Los Angeles, CA - this is where I live!
 - 🎓 UC Berkeley - graduated _cum laude_ (Economics BA)
 - 🛠️ Knowledgeable in TypeScript, Python
 - 🚀 Founded Wager Town, a popular sports betting app
