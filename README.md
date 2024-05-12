@@ -25,7 +25,7 @@
 
 ## <b>Interviews</b>
 
-- **[Building a Platform for Fans & Brands](https://ads.spotify.com/en-US/news-and-insights/building-a-platform-for-fans-and-brands/)**
+- **[Building a Platform for Fans & Brands (Spotify)](https://ads.spotify.com/en-US/news-and-insights/building-a-platform-for-fans-and-brands/)**
 
 <br/>
 
