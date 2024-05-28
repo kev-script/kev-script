@@ -5,9 +5,7 @@
 </p>
 
 <!-- GoatCounter Image for tracking views -->
-![GoatCounter1](https://kev-script.goatcounter.com/count?p=/github-profile/test1)
-![GoatCounter2](https://kev-script.goatcounter.com/count?p=/github-profile/test2)
-![GoatCounter3](https://kev-script.goatcounter.com/count?p=/github-profile/test3)
+![GoatCounter1](https://kev-script.goatcounter.com/count?p=/github-profile/)
 
 
 ## <b>A little about me</b>
