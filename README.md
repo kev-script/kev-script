@@ -8,7 +8,7 @@
 ![GoatCounter](https://kev-script.goatcounter.com/count?p=/github-profile)
 
 
-## <b>A little about me...</b>
+## <b>A little about me</b>
 
 <picture><img align="right" src="https://github.com/kshowkat-ctrl/public-assets/blob/main/itkev.png?raw=true" width = 160px></picture>
 + 📍 Los Angeles
