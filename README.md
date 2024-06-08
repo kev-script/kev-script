@@ -11,7 +11,7 @@
 + 📍 Los Angeles
 + 🎓 UC Berkeley (Economics BA)
 + 🛠️ Proficient in TypeScript, Python
-+ 🚀 Founded Wager Town, a popular sports betting game ([Product Hunt]([url](https://www.producthunt.com/products/wager-town)))
++ 🚀 Founded Wager Town, a popular sports betting game ([Product Hunt]([https://www.producthunt.com/products/wager-town))
 + 🌿 Founder of @DailyBiophilia, a design-centric Instagram community
 + 🌱 Currently on a sabbatical exploring LLMs + running
 + 🎧 Previously at Spotify, where I led product development for our experimental ad formats ([patents](https://patents.justia.com/inventor/kevin-showkat))
