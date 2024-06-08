@@ -7,8 +7,6 @@
 <!-- GoatCounter Image for tracking views -->
 ![GoatCounter1](https://kev-script.goatcounter.com/count?p=/github-profile/)
 
-[![](https://visitcount.itsvg.in/api?id=kev-script&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
 
 ## <b>A little about me</b>
 
@@ -58,6 +56,8 @@
 </a>
 
 <br>
+
+[![](https://visitcount.itsvg.in/api?id=kev-script&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Add any other badges here -->
 <!-- Example: Dev.to -->
