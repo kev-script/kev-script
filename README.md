@@ -13,7 +13,7 @@
 + 🛠️ Proficient in TypeScript, Python
 + 🚀 Founded Wager Town, a popular sports betting game ([Product Hunt](https://www.producthunt.com/products/wager-town))
 + 🌿 Founder of @DailyBiophilia, a design-centric Instagram community
-+ 🌱 Currently on a sabbatical exploring LLMs + running
++ 🌱 Currently on a sabbatical exploring LLMs
 + 🎧 Previously at Spotify, where I led product development for our experimental ad formats ([Patents](https://patents.justia.com/inventor/kevin-showkat))
 <br/>
 
