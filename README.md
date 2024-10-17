@@ -9,7 +9,7 @@
 
 
 + 📍 Los Angeles
-+ 🎓 UC Berkeley (Economics BA)
++ 🎓 UC Berkeley (Economics)
 + 🚀 Founded Wager Town, a popular sports betting game ([Product Hunt](https://www.producthunt.com/products/wager-town))
 + 🌿 Founder of @DailyBiophilia, a design-centric Instagram community
 + 🌱 Currently on a sabbatical exploring LLMs/Generative AI
