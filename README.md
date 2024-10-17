@@ -1,4 +1,4 @@
-<h1 align="left"><b>Hi! It's ~Kevin Showkat~</b></h1>
+<h1 align="left"><b>Welcome to my page!</b></h1>
 <br/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1800&pause=800&center=true&random=false&color=29AB87&lines=Product+Manager;Founder;LLM+enthusiast;Biophilic+Designer" alt="Typing SVG" style="height: 60px; width: 435px;">
