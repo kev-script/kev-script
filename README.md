@@ -4,18 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1800&pause=800&center=true&random=false&color=29AB87&lines=Product+Manager;Founder;LLM+enthusiast;Biophilic+Designer" alt="Typing SVG" style="height: 60px; width: 435px;">
 </p>
 
-
-## <b>A little about me</b>
-
-
-+ 📍 Los Angeles
-+ 🎓 UC Berkeley (Economics)
-+ 🚀 Founded Wager Town, a popular sports betting game ([Product Hunt](https://www.producthunt.com/products/wager-town))
-+ 🌿 Founder of @DailyBiophilia, a design-centric Instagram community
-+ 🌱 Currently on a sabbatical exploring LLMs/Generative AI
-+ 🎧 Previously at Spotify, where I led product development for our experimental ad formats ([Patents](https://patents.justia.com/inventor/kevin-showkat))
-<br/>
-
 ## <b>Projects</b>
 
 - **[GPT-IG-Boost (Daily Biophilia) - WIP, coming soon](https://localhost)** 
